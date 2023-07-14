@@ -5,7 +5,7 @@
 .. module:: pandas
 
 ********************
-Pandas Documentation
+pandas documentation
 ********************
 
 **Date**: |today| **Version**: |version|
@@ -22,7 +22,7 @@ Pandas Documentation
 `Q&A Support <https://stackoverflow.com/questions/tagged/pandas>`__ |
 `Mailing List <https://groups.google.com/g/pydata>`__
 
-:mod:`Pandas` is a great resource for all data manipulation needs, licensed under BSD, that offers high-performance, user-friendly data structures and analysis tools for `Python <https://www.python.org/>`__
+:mod:`pandas` is a great resource for all data manipulation needs, licensed under BSD, that offers high-performance, user-friendly data structures and analysis tools for `Python <https://www.python.org/>`__
 
 
 
